@@ -27,7 +27,7 @@ a {
 .light {
   --bg: white;
   --textColor: black;
-  --softGb: #f0f0f0;
+  --softBg: #f0f0f0;
   --softTextColor: #626262;
 }
 .container {
